@@ -1,0 +1,2501 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="180"
+   height="360"
+   id="svg38602"
+   version="1.1"
+   inkscape:version="0.46+devel r21908"
+   sodipodi:docname="sticker_atrium1.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/tmp/sticker_atrium1.png"
+   inkscape:export-xdpi="89.994781"
+   inkscape:export-ydpi="89.994781">
+  <defs
+     id="defs38604">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective38610" />
+    <inkscape:perspective
+       id="perspective38630"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient16560"
+       id="linearGradient16566"
+       x1="85"
+       y1="2510"
+       x2="85"
+       y2="2792.9412"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0446429,0,0,1.0337838,-5.8035714,-91.047297)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient16560">
+      <stop
+         style="stop-color:#205880;stop-opacity:1"
+         offset="0"
+         id="stop16562" />
+      <stop
+         style="stop-color:#2187ff;stop-opacity:1"
+         offset="1"
+         id="stop16564" />
+    </linearGradient>
+    <linearGradient
+       y2="2880"
+       x2="104.54545"
+       y1="2510"
+       x1="104.54545"
+       gradientTransform="matrix(0.72321432,0,0,1.0337838,-4.0178568,-1913.6877)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient38639"
+       xlink:href="#linearGradient16560"
+       inkscape:collect="always" />
+    <inkscape:perspective
+       id="perspective40783"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4239"
+       id="radialGradient4646"
+       cx="2656.9941"
+       cy="963.42377"
+       fx="2656.9941"
+       fy="963.42377"
+       r="23.0625"
+       gradientTransform="matrix(0.27996377,0.14016905,-0.13183426,0.26331645,-417.14125,348.28683)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient4239">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4241" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4243" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4239"
+       id="linearGradient4478"
+       gradientUnits="userSpaceOnUse"
+       x1="1238.7155"
+       y1="817.89062"
+       x2="1303.3024"
+       y2="811.70343"
+       gradientTransform="matrix(-0.25636918,-0.15145378,-0.15145378,0.25636918,645.0147,979.42561)" />
+    <linearGradient
+       id="linearGradient40792">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop40794" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop40796" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4239"
+       id="linearGradient4527"
+       x1="2581.7029"
+       y1="992.70746"
+       x2="2607.7097"
+       y2="1007.8051"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.35697715,0.06579038,-0.06579038,0.35697715,-677.33979,450.1414)" />
+    <linearGradient
+       id="linearGradient40799">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop40801" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop40803" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4239"
+       id="radialGradient4260"
+       cx="1800.9188"
+       cy="319.15356"
+       fx="1800.9188"
+       fy="319.15356"
+       r="35.9375"
+       gradientTransform="matrix(0.29060734,0.03539286,-0.03533133,0.29010191,-559.27035,646.59551)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient40806">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop40808" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop40810" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4239"
+       id="linearGradient4245"
+       x1="1864.7897"
+       y1="405.12943"
+       x2="1830.0634"
+       y2="401.27817"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.29060734,0.03539286,-0.03539286,0.29060734,-559.25052,646.43248)" />
+    <linearGradient
+       id="linearGradient40813">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop40815" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop40817" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4003"
+       id="linearGradient7539"
+       gradientUnits="userSpaceOnUse"
+       x1="2342.1755"
+       y1="1650.7153"
+       x2="2333.8726"
+       y2="1718.427" />
+    <linearGradient
+       id="linearGradient4003">
+      <stop
+         style="stop-color:#fe4023;stop-opacity:1;"
+         offset="0"
+         id="stop4005" />
+      <stop
+         style="stop-color:#a22613;stop-opacity:1;"
+         offset="1"
+         id="stop4007" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4020"
+       id="linearGradient7541"
+       gradientUnits="userSpaceOnUse"
+       x1="2227.5371"
+       y1="1666.254"
+       x2="2287.8706"
+       y2="1707.4886" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4020">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4022" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4024" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4239"
+       id="linearGradient4218"
+       x1="1719.2372"
+       y1="638.95996"
+       x2="1727.7618"
+       y2="730.69885"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.29275464,0,0,0.29275464,-582.24526,689.39848)" />
+    <linearGradient
+       id="linearGradient40828">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop40830" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop40832" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4239"
+       id="linearGradient4193"
+       gradientUnits="userSpaceOnUse"
+       x1="1899.5862"
+       y1="592.21021"
+       x2="1879.5"
+       y2="773.5"
+       gradientTransform="matrix(0.29275464,0,0,0.29275464,-582.24526,689.39848)" />
+    <linearGradient
+       id="linearGradient40835">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop40837" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop40839" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4172"
+       id="linearGradient4170"
+       gradientUnits="userSpaceOnUse"
+       x1="2279.3103"
+       y1="375.41479"
+       x2="2287.9861"
+       y2="366.60028" />
+    <linearGradient
+       id="linearGradient4172">
+      <stop
+         style="stop-color:#d2d2d2;stop-opacity:1"
+         offset="0"
+         id="stop4174" />
+      <stop
+         style="stop-color:#bcbcbc;stop-opacity:1"
+         offset="1"
+         id="stop4176" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4020"
+       id="linearGradient4304"
+       x1="2400.3157"
+       y1="786.4082"
+       x2="2395.5378"
+       y2="851.98956"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.29275464,0,0,0.29275464,-582.24526,689.39848)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6195"
+       id="linearGradient3896"
+       x1="2149.0571"
+       y1="1058.3156"
+       x2="2149.0571"
+       y2="909.88416"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.29275464,0,0,0.29275464,-582.24526,689.39848)" />
+    <linearGradient
+       id="linearGradient6195">
+      <stop
+         style="stop-color:#16c800;stop-opacity:1;"
+         offset="0"
+         id="stop6197" />
+      <stop
+         style="stop-color:#8aff21;stop-opacity:1;"
+         offset="1"
+         id="stop6199" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10001"
+       id="linearGradient4091"
+       x1="1825.6639"
+       y1="670.33453"
+       x2="2060"
+       y2="622.91888"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.29275464,0,0,0.29275464,-582.24526,689.39848)" />
+    <linearGradient
+       id="linearGradient10001">
+      <stop
+         style="stop-color:#007319;stop-opacity:1"
+         offset="0"
+         id="stop3676" />
+      <stop
+         style="stop-color:#33a00f;stop-opacity:1"
+         offset="1"
+         id="stop3678" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6195"
+       id="linearGradient3910"
+       x1="2398.7732"
+       y1="815.66364"
+       x2="2400.0957"
+       y2="576.52405"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.29275464,0,0,0.29275464,-582.24526,724.52903)" />
+    <linearGradient
+       id="linearGradient40861">
+      <stop
+         style="stop-color:#16c800;stop-opacity:1;"
+         offset="0"
+         id="stop40863" />
+      <stop
+         style="stop-color:#8aff21;stop-opacity:1;"
+         offset="1"
+         id="stop40865" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4003"
+       id="linearGradient4325"
+       x1="2361.3943"
+       y1="556.72473"
+       x2="2354.9663"
+       y2="594.8537"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.29275464,0,0,0.29275464,-577.71996,690.00185)" />
+    <linearGradient
+       id="linearGradient40868">
+      <stop
+         style="stop-color:#fe4023;stop-opacity:1;"
+         offset="0"
+         id="stop40870" />
+      <stop
+         style="stop-color:#a22613;stop-opacity:1;"
+         offset="1"
+         id="stop40872" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3847"
+       id="linearGradient3948"
+       x1="2330.1616"
+       y1="371.55081"
+       x2="2365.8862"
+       y2="408.20425"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.29275464,0,0,0.29275464,-577.71996,725.13241)" />
+    <linearGradient
+       id="linearGradient3847">
+      <stop
+         id="stop3849"
+         offset="0"
+         style="stop-color:#d2d2d2;stop-opacity:1" />
+      <stop
+         id="stop3851"
+         offset="1"
+         style="stop-color:#9c9c9c;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4124"
+       id="linearGradient3918"
+       x1="2128.9553"
+       y1="580.84888"
+       x2="2305.2461"
+       y2="580.84888"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.29275464,0,0,0.29275464,-582.67201,697.50689)" />
+    <linearGradient
+       id="linearGradient4124"
+       inkscape:collect="always">
+      <stop
+         id="stop4126"
+         offset="0"
+         style="stop-color:#666666;stop-opacity:1" />
+      <stop
+         id="stop4128"
+         offset="1"
+         style="stop-color:#1a1a1a;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6195"
+       id="linearGradient3927"
+       x1="2175.1187"
+       y1="521.67529"
+       x2="2165.5435"
+       y2="415.34012"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.29275464,0,0,0.29275464,-582.67201,697.50689)" />
+    <linearGradient
+       id="linearGradient40883">
+      <stop
+         style="stop-color:#16c800;stop-opacity:1;"
+         offset="0"
+         id="stop40885" />
+      <stop
+         style="stop-color:#8aff21;stop-opacity:1;"
+         offset="1"
+         id="stop40887" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3698"
+       id="linearGradient4053"
+       x1="2524.7976"
+       y1="924.75214"
+       x2="2403.8479"
+       y2="1132.1932"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.29275464,0,0,0.29275464,-582.24526,689.39848)" />
+    <linearGradient
+       id="linearGradient3698">
+      <stop
+         style="stop-color:#82fb1e;stop-opacity:1"
+         offset="0"
+         id="stop3700" />
+      <stop
+         style="stop-color:#0e8200;stop-opacity:1"
+         offset="1"
+         id="stop3702" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10001"
+       id="linearGradient4067"
+       x1="2471.2107"
+       y1="1078.4506"
+       x2="2654.7502"
+       y2="1060.9578"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.29275464,0,0,0.29275464,-582.24526,689.39848)" />
+    <linearGradient
+       id="linearGradient40894">
+      <stop
+         style="stop-color:#007319;stop-opacity:1"
+         offset="0"
+         id="stop40896" />
+      <stop
+         style="stop-color:#33a00f;stop-opacity:1"
+         offset="1"
+         id="stop40898" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4124"
+       id="linearGradient4045"
+       x1="2439.4143"
+       y1="1153.4248"
+       x2="2473.6619"
+       y2="1119.4547"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.29275464,0,0,0.29275464,-582.24526,689.39848)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4242"
+       id="linearGradient7003"
+       x1="2269.188"
+       y1="1368.4979"
+       x2="2438.9236"
+       y2="1320.0638"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.29275464,0,0,0.29275464,-582.24526,689.39848)" />
+    <linearGradient
+       id="linearGradient4242">
+      <stop
+         id="stop4244"
+         offset="0"
+         style="stop-color:#16c800;stop-opacity:1" />
+      <stop
+         id="stop4246"
+         offset="1"
+         style="stop-color:#82fb1e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3698"
+       id="linearGradient7555"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.11526211,0.19963985,-0.19963985,0.11526211,362.18277,589.27267)"
+       x1="1332.6417"
+       y1="1716.2594"
+       x2="1365.8429"
+       y2="1866.0081" />
+    <linearGradient
+       id="linearGradient40912">
+      <stop
+         style="stop-color:#82fb1e;stop-opacity:1"
+         offset="0"
+         id="stop40914" />
+      <stop
+         style="stop-color:#0e8200;stop-opacity:1"
+         offset="1"
+         id="stop40916" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4124"
+       id="linearGradient7551"
+       x1="2525.8733"
+       y1="1319.7722"
+       x2="2347.6206"
+       y2="1356.5908"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.29275464,0,0,0.29275464,-582.24526,689.39848)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3811"
+       id="linearGradient9137"
+       gradientUnits="userSpaceOnUse"
+       x1="1829.743"
+       y1="1193.2216"
+       x2="1860.0625"
+       y2="1226.6562"
+       gradientTransform="matrix(0.29275464,0,0,0.29275464,-582.69528,689.85509)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3811">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3813" />
+      <stop
+         style="stop-color:#cdcdcd;stop-opacity:1"
+         offset="1"
+         id="stop3815" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3811"
+       id="linearGradient9135"
+       gradientUnits="userSpaceOnUse"
+       x1="1869.5842"
+       y1="1317.4493"
+       x2="1993.9292"
+       y2="1317.4493"
+       gradientTransform="matrix(0.29275464,0,0,0.29275464,-582.69528,689.85509)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3811"
+       id="linearGradient9133"
+       gradientUnits="userSpaceOnUse"
+       x1="1850.9717"
+       y1="1073.2877"
+       x2="1941.7152"
+       y2="1073.2877"
+       gradientTransform="matrix(0.29275464,0,0,0.29275464,-582.69528,689.85509)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3847"
+       id="linearGradient9129"
+       gradientUnits="userSpaceOnUse"
+       x1="1838.8849"
+       y1="1171.7242"
+       x2="1807.9666"
+       y2="1214.9242"
+       gradientTransform="matrix(0.29275464,0,0,0.29275464,-582.69528,689.85509)" />
+    <linearGradient
+       id="linearGradient40944">
+      <stop
+         id="stop40946"
+         offset="0"
+         style="stop-color:#d2d2d2;stop-opacity:1" />
+      <stop
+         id="stop40948"
+         offset="1"
+         style="stop-color:#9c9c9c;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3318"
+       id="linearGradient9127"
+       gradientUnits="userSpaceOnUse"
+       x1="1891.5912"
+       y1="1419.0547"
+       x2="1874.3412"
+       y2="1288.1365"
+       gradientTransform="matrix(0.29275464,0,0,0.29275464,-582.69528,689.85509)" />
+    <linearGradient
+       id="linearGradient3318">
+      <stop
+         id="stop3320"
+         offset="0"
+         style="stop-color:#8aff21;stop-opacity:1" />
+      <stop
+         id="stop3322"
+         offset="1"
+         style="stop-color:#16c800;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3847"
+       id="linearGradient9123"
+       gradientUnits="userSpaceOnUse"
+       x1="1751.5891"
+       y1="1386.3542"
+       x2="1808.4233"
+       y2="1263.1198"
+       gradientTransform="matrix(0.29275464,0,0,0.29275464,-582.69528,689.85509)" />
+    <linearGradient
+       id="linearGradient40955">
+      <stop
+         id="stop40957"
+         offset="0"
+         style="stop-color:#d2d2d2;stop-opacity:1" />
+      <stop
+         id="stop40959"
+         offset="1"
+         style="stop-color:#9c9c9c;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3698"
+       id="linearGradient9045"
+       gradientUnits="userSpaceOnUse"
+       x1="1933.3904"
+       y1="1161.1782"
+       x2="1822.3521"
+       y2="1461.0154"
+       gradientTransform="matrix(0.29275464,0,0,0.29275464,-582.69528,689.85509)" />
+    <linearGradient
+       id="linearGradient40962">
+      <stop
+         style="stop-color:#82fb1e;stop-opacity:1"
+         offset="0"
+         id="stop40964" />
+      <stop
+         style="stop-color:#0e8200;stop-opacity:1"
+         offset="1"
+         id="stop40966" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3698"
+       id="linearGradient9043"
+       gradientUnits="userSpaceOnUse"
+       x1="1802.8169"
+       y1="982.20618"
+       x2="1818.7527"
+       y2="1105.7831"
+       gradientTransform="matrix(0.29275464,0,0,0.29275464,-582.69528,689.85509)" />
+    <linearGradient
+       id="linearGradient40969">
+      <stop
+         style="stop-color:#82fb1e;stop-opacity:1"
+         offset="0"
+         id="stop40971" />
+      <stop
+         style="stop-color:#0e8200;stop-opacity:1"
+         offset="1"
+         id="stop40973" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3318"
+       id="linearGradient9041"
+       gradientUnits="userSpaceOnUse"
+       x1="1904.5209"
+       y1="991.87286"
+       x2="1904.5209"
+       y2="1082.1244"
+       gradientTransform="matrix(0.29275464,0,0,0.29275464,-582.69528,689.85509)" />
+    <linearGradient
+       id="linearGradient40976">
+      <stop
+         id="stop40978"
+         offset="0"
+         style="stop-color:#8aff21;stop-opacity:1" />
+      <stop
+         id="stop40980"
+         offset="1"
+         style="stop-color:#16c800;stop-opacity:1" />
+    </linearGradient>
+    <inkscape:perspective
+       id="perspective42981"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7573"
+       id="linearGradient7579"
+       x1="2911.4543"
+       y1="994.49799"
+       x2="2833.7061"
+       y2="1079.8315"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.8517455,0,0,0.8517455,16.465911,244.61908)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7573">
+      <stop
+         style="stop-color:#ffff00;stop-opacity:1;"
+         offset="0"
+         id="stop7575" />
+      <stop
+         style="stop-color:#ffff00;stop-opacity:0;"
+         offset="1"
+         id="stop7577" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3847-9"
+       id="linearGradient9033"
+       gradientUnits="userSpaceOnUse"
+       x1="2270.6626"
+       y1="2065.1016"
+       x2="2294.4832"
+       y2="2065.1016"
+       gradientTransform="matrix(0.8517455,0,0,0.8517455,-3463.4341,594.36)" />
+    <linearGradient
+       id="linearGradient3847-9">
+      <stop
+         id="stop3849-2"
+         offset="0"
+         style="stop-color:#d2d2d2;stop-opacity:1" />
+      <stop
+         id="stop3851-7"
+         offset="1"
+         style="stop-color:#9c9c9c;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3847-9"
+       id="linearGradient9035"
+       gradientUnits="userSpaceOnUse"
+       x1="2690.7949"
+       y1="1414.8975"
+       x2="2732.6326"
+       y2="1414.8975"
+       gradientTransform="matrix(0.1620147,-0.8361947,0.8361947,0.1620147,836.57426,3413.0304)" />
+    <linearGradient
+       id="linearGradient42994">
+      <stop
+         id="stop42996"
+         offset="0"
+         style="stop-color:#d2d2d2;stop-opacity:1" />
+      <stop
+         id="stop42998"
+         offset="1"
+         style="stop-color:#9c9c9c;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3847-9"
+       id="linearGradient9103"
+       gradientUnits="userSpaceOnUse"
+       x1="2282.9597"
+       y1="2065.1016"
+       x2="2380.0752"
+       y2="2065.1016"
+       gradientTransform="matrix(0.8517455,0,0,0.8517455,-3463.4341,594.36)" />
+    <linearGradient
+       id="linearGradient43001">
+      <stop
+         id="stop43003"
+         offset="0"
+         style="stop-color:#d2d2d2;stop-opacity:1" />
+      <stop
+         id="stop43005"
+         offset="1"
+         style="stop-color:#9c9c9c;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3811-8"
+       id="linearGradient9105"
+       gradientUnits="userSpaceOnUse"
+       x1="2963.0979"
+       y1="1390.3629"
+       x2="3032.1011"
+       y2="1390.3629" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3811-8">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3813-6" />
+      <stop
+         style="stop-color:#cdcdcd;stop-opacity:1"
+         offset="1"
+         id="stop3815-8" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3847-9"
+       id="linearGradient43195"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.8517455,0,0,0.8517455,-3463.4341,594.36)"
+       x1="2270.6626"
+       y1="2065.1016"
+       x2="2294.4832"
+       y2="2065.1016" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3847-9"
+       id="linearGradient43197"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.1620147,-0.8361947,0.8361947,0.1620147,836.57426,3413.0304)"
+       x1="2690.7949"
+       y1="1414.8975"
+       x2="2732.6326"
+       y2="1414.8975" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3847-9"
+       id="linearGradient43199"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.8517455,0,0,0.8517455,-3463.4341,594.36)"
+       x1="2282.9597"
+       y1="2065.1016"
+       x2="2380.0752"
+       y2="2065.1016" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3811-8"
+       id="linearGradient43201"
+       gradientUnits="userSpaceOnUse"
+       x1="2963.0979"
+       y1="1390.3629"
+       x2="3032.1011"
+       y2="1390.3629" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7573"
+       id="linearGradient43203"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.8517455,0,0,0.8517455,16.465911,244.61908)"
+       x1="2911.4543"
+       y1="994.49799"
+       x2="2833.7061"
+       y2="1079.8315" />
+    <inkscape:perspective
+       id="perspective43215"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3318-9"
+       id="linearGradient36425"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.85100673,0,0,0.85100673,243.11456,-413.69861)"
+       x1="437.35034"
+       y1="587.68884"
+       x2="426.09375"
+       y2="597.03473" />
+    <linearGradient
+       id="linearGradient3318-9"
+       inkscape:collect="always">
+      <stop
+         id="stop3320-6"
+         offset="0"
+         style="stop-color:#8aff21;stop-opacity:1" />
+      <stop
+         id="stop3322-8"
+         offset="1"
+         style="stop-color:#16c800;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3945-2"
+       id="linearGradient15834"
+       gradientUnits="userSpaceOnUse"
+       x1="440.4317"
+       y1="659.13629"
+       x2="440.4317"
+       y2="675.13629" />
+    <linearGradient
+       id="linearGradient3945-2"
+       inkscape:collect="always">
+      <stop
+         id="stop3947-4"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop3949-6"
+         offset="1"
+         style="stop-color:#e0e0e0;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       y2="675.13629"
+       x2="440.4317"
+       y1="659.13629"
+       x1="440.4317"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3772-5"
+       xlink:href="#linearGradient3945-2"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="675.13629"
+       x2="440.4317"
+       y1="659.13629"
+       x1="440.4317"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3774-3"
+       xlink:href="#linearGradient3945-2"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="675.13629"
+       x2="440.4317"
+       y1="659.13629"
+       x1="440.4317"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3776-4"
+       xlink:href="#linearGradient3945-2"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3318-9"
+       id="linearGradient36417"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.8084497,0,0,0.8084497,261.91675,-385.43276)"
+       x1="409.62469"
+       y1="588.2088"
+       x2="413.35345"
+       y2="597.53125" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3945-2"
+       id="linearGradient36414"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.739154,0,0,0.739154,507.6598,-53.900838)"
+       x1="300.55029"
+       y1="202.64908"
+       x2="300.55029"
+       y2="220.14908" />
+    <inkscape:perspective
+       id="perspective43891"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4239-0"
+       id="radialGradient4395"
+       cx="729.8609"
+       cy="1264.2188"
+       fx="729.8609"
+       fy="1264.2188"
+       r="22.3125"
+       gradientTransform="matrix(0.32267747,0.04348118,-0.04940121,0.36661048,-104.0853,455.3862)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient4239-0">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4241-3" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4243-7" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4239-0"
+       id="linearGradient4410"
+       x1="746.96875"
+       y1="1234.2969"
+       x2="767.21875"
+       y2="1229.0469"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.26279913,0.03107529,-0.03107529,0.26279913,-83.550402,595.68111)" />
+    <linearGradient
+       id="linearGradient43900">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop43902" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop43904" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4239-0"
+       id="linearGradient4382"
+       x1="744.16229"
+       y1="1341.2419"
+       x2="711.70294"
+       y2="1310.4829"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.26279913,0.03107529,-0.03107529,0.26279913,-83.550402,595.68111)" />
+    <linearGradient
+       id="linearGradient43907">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop43909" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop43911" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4242-1"
+       id="linearGradient4018"
+       x1="876.0791"
+       y1="1596.4653"
+       x2="780.93854"
+       y2="1472.933"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.26279913,0.03107529,-0.03107529,0.26279913,-83.550402,595.68111)" />
+    <linearGradient
+       id="linearGradient4242-1">
+      <stop
+         id="stop4244-0"
+         offset="0"
+         style="stop-color:#16c800;stop-opacity:1" />
+      <stop
+         id="stop4246-6"
+         offset="1"
+         style="stop-color:#82fb1e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4124-3"
+       id="linearGradient4010"
+       x1="960.57458"
+       y1="1660.4314"
+       x2="1143.8132"
+       y2="1902.8569"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.26279913,0.03107529,-0.03107529,0.26279913,-83.550402,595.68111)" />
+    <linearGradient
+       id="linearGradient4124-3"
+       inkscape:collect="always">
+      <stop
+         id="stop4126-3"
+         offset="0"
+         style="stop-color:#666666;stop-opacity:1" />
+      <stop
+         id="stop4128-0"
+         offset="1"
+         style="stop-color:#1a1a1a;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6195-5"
+       id="linearGradient3864"
+       x1="1050.0178"
+       y1="1580.663"
+       x2="1034.0687"
+       y2="1450.9246"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.26279913,0.03107529,-0.03107529,0.26279913,-83.550402,595.68111)" />
+    <linearGradient
+       id="linearGradient6195-5">
+      <stop
+         style="stop-color:#16c800;stop-opacity:1;"
+         offset="0"
+         id="stop6197-0" />
+      <stop
+         style="stop-color:#8aff21;stop-opacity:1;"
+         offset="1"
+         id="stop6199-3" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10001-6"
+       id="linearGradient3856"
+       x1="1174.7081"
+       y1="1842.7963"
+       x2="1151.25"
+       y2="1779.9191"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.43493878,0.05143035,-0.03107529,0.26279913,-294.71338,523.3708)" />
+    <linearGradient
+       id="linearGradient10001-6">
+      <stop
+         style="stop-color:#007319;stop-opacity:1"
+         offset="0"
+         id="stop3676-0" />
+      <stop
+         style="stop-color:#33a00f;stop-opacity:1"
+         offset="1"
+         id="stop3678-0" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4020-2"
+       id="linearGradient7679"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.07713622,-0.25313841,0.25313841,0.07713622,-709.21266,1567.4894)"
+       x1="3020.084"
+       y1="1919.6719"
+       x2="2951.1426"
+       y2="2034.7771" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4020-2">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4022-8" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4024-3" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4124-3"
+       id="linearGradient4215"
+       gradientUnits="userSpaceOnUse"
+       x1="2974.9797"
+       y1="2047.7983"
+       x2="2846.9382"
+       y2="2227.9241"
+       gradientTransform="matrix(0.07713622,-0.25313841,0.25313841,0.07713622,-709.21266,1567.4894)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3698-5"
+       id="linearGradient4267"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.24312836,-0.10448756,0.10448756,0.24312836,-493.17138,670.33634)"
+       x1="1332.6417"
+       y1="1716.2594"
+       x2="1365.8429"
+       y2="1866.0081" />
+    <linearGradient
+       id="linearGradient3698-5">
+      <stop
+         style="stop-color:#82fb1e;stop-opacity:1"
+         offset="0"
+         id="stop3700-9" />
+      <stop
+         style="stop-color:#0e8200;stop-opacity:1"
+         offset="1"
+         id="stop3702-0" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3847-96"
+       id="linearGradient9119"
+       gradientUnits="userSpaceOnUse"
+       x1="926.3941"
+       y1="1012.0554"
+       x2="926.43646"
+       y2="981.97174" />
+    <linearGradient
+       id="linearGradient3847-96">
+      <stop
+         id="stop3849-4"
+         offset="0"
+         style="stop-color:#d2d2d2;stop-opacity:1" />
+      <stop
+         id="stop3851-2"
+         offset="1"
+         style="stop-color:#9c9c9c;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3811-7"
+       id="linearGradient9117"
+       gradientUnits="userSpaceOnUse"
+       x1="973.89282"
+       y1="988.4245"
+       x2="907.25421"
+       y2="995.1911" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3811-7">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3813-60" />
+      <stop
+         style="stop-color:#cdcdcd;stop-opacity:1"
+         offset="1"
+         id="stop3815-7" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3811-7"
+       id="linearGradient9115"
+       gradientUnits="userSpaceOnUse"
+       x1="973.68604"
+       y1="1038.1962"
+       x2="1103.8273"
+       y2="1038.1962"
+       gradientTransform="matrix(0.26279913,0.03107529,-0.03107529,0.26279913,-84.002829,596.04321)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3811-7"
+       id="linearGradient9087"
+       gradientUnits="userSpaceOnUse"
+       x1="899.12555"
+       y1="856.42792"
+       x2="978.6358"
+       y2="856.42792"
+       gradientTransform="matrix(0.26279913,0.03107529,-0.03107529,0.26279913,-84.002829,596.04321)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3847-96"
+       id="linearGradient9085"
+       gradientUnits="userSpaceOnUse"
+       x1="1003.7728"
+       y1="917.98358"
+       x2="1026.3643"
+       y2="968.36438"
+       gradientTransform="matrix(0.26279913,0.03107529,-0.03107529,0.26279913,-84.002829,596.04321)" />
+    <linearGradient
+       id="linearGradient43967">
+      <stop
+         id="stop43969"
+         offset="0"
+         style="stop-color:#d2d2d2;stop-opacity:1" />
+      <stop
+         id="stop43971"
+         offset="1"
+         style="stop-color:#9c9c9c;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3847-96"
+       id="linearGradient9075"
+       gradientUnits="userSpaceOnUse"
+       x1="525.14325"
+       y1="809.36969"
+       x2="672.89886"
+       y2="809.36969"
+       gradientTransform="matrix(0.17745155,0.02098318,-0.02098318,0.17745155,-37.989622,674.84764)" />
+    <linearGradient
+       id="linearGradient43974">
+      <stop
+         id="stop43976"
+         offset="0"
+         style="stop-color:#d2d2d2;stop-opacity:1" />
+      <stop
+         id="stop43978"
+         offset="1"
+         style="stop-color:#9c9c9c;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3811-7"
+       id="linearGradient9061"
+       gradientUnits="userSpaceOnUse"
+       x1="881.14191"
+       y1="995.16064"
+       x2="966"
+       y2="995.16064"
+       gradientTransform="matrix(0.26279913,0.03107529,-0.03107529,0.26279913,-84.002829,596.04321)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3973"
+       id="linearGradient9055"
+       gradientUnits="userSpaceOnUse"
+       x1="770.67645"
+       y1="1181.7915"
+       x2="978.63989"
+       y2="1406.3151"
+       gradientTransform="matrix(0.26279913,0.03107529,-0.03107529,0.26279913,-84.002829,596.04321)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3973">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop3975" />
+      <stop
+         style="stop-color:#9c9c9c;stop-opacity:1"
+         offset="1"
+         id="stop3977" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4020-2"
+       id="linearGradient7010"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.26279913,0.03107529,-0.03107529,0.26279913,-84.002829,596.04321)"
+       x1="1089.646"
+       y1="1202.8628"
+       x2="1059.246"
+       y2="1098.1022" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3847-96"
+       id="linearGradient9053"
+       gradientUnits="userSpaceOnUse"
+       x1="992.77789"
+       y1="1125.5743"
+       x2="985.93799"
+       y2="1070.2783"
+       gradientTransform="matrix(0.26279913,0.03107529,-0.03107529,0.26279913,-84.002829,596.04321)" />
+    <linearGradient
+       id="linearGradient43999">
+      <stop
+         id="stop44001"
+         offset="0"
+         style="stop-color:#d2d2d2;stop-opacity:1" />
+      <stop
+         id="stop44003"
+         offset="1"
+         style="stop-color:#9c9c9c;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3698-5"
+       id="linearGradient9059"
+       gradientUnits="userSpaceOnUse"
+       x1="936.1795"
+       y1="1035.9666"
+       x2="979.12219"
+       y2="1068.7263"
+       gradientTransform="matrix(0.37051181,0.27661142,-0.27661142,0.37051184,99.999809,275.86539)" />
+    <linearGradient
+       id="linearGradient44006">
+      <stop
+         style="stop-color:#82fb1e;stop-opacity:1"
+         offset="0"
+         id="stop44008" />
+      <stop
+         style="stop-color:#0e8200;stop-opacity:1"
+         offset="1"
+         id="stop44010" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10001-6"
+       id="linearGradient9047"
+       gradientUnits="userSpaceOnUse"
+       x1="1019.7612"
+       y1="1139.5"
+       x2="985.02234"
+       y2="1139.5"
+       gradientTransform="matrix(0.782605,0.3361543,-0.3361543,0.782605,469.81234,-17.837486)" />
+    <linearGradient
+       id="linearGradient44013">
+      <stop
+         style="stop-color:#007319;stop-opacity:1"
+         offset="0"
+         id="stop44015" />
+      <stop
+         style="stop-color:#33a00f;stop-opacity:1"
+         offset="1"
+         id="stop44017" />
+    </linearGradient>
+    <linearGradient
+       y2="1139.5"
+       x2="985.02234"
+       y1="1139.5"
+       x1="1019.7612"
+       gradientTransform="matrix(0.22920205,0.13227042,-0.13227042,0.22920205,65.901469,531.24225)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient44098"
+       xlink:href="#linearGradient10001-6"
+       inkscape:collect="always" />
+    <inkscape:perspective
+       id="perspective44460"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4125"
+       id="linearGradient4415"
+       x1="1214.1522"
+       y1="1601.95"
+       x2="1189.1372"
+       y2="1415.4272"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.18114809,0,0,0.18114809,5.3827186,719.424)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4125">
+      <stop
+         style="stop-color:#2cb9e7;stop-opacity:1;"
+         offset="0"
+         id="stop4127" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop4129" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4125"
+       id="linearGradient44505"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.18114809,0,0,0.18114809,5.3827186,719.424)"
+       x1="1214.1522"
+       y1="1601.95"
+       x2="1189.1372"
+       y2="1415.4272" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient16560"
+       id="linearGradient8654"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.64285717,0,0,0.97297301,6.4285717,-1749.8026)"
+       x1="104.54545"
+       y1="2510"
+       x2="104.54545"
+       y2="2880" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="103.4431"
+     inkscape:cy="184.9689"
+     inkscape:document-units="in"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1680"
+     inkscape:window-height="998"
+     inkscape:window-x="0"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-nodes="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid38612"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="0.125in"
+       spacingy="0.125in"
+       units="in" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="-11.25,-0.00025878906"
+       id="guide38614" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0,371.24974"
+       id="guide38616" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0,-11.250259"
+       id="guide38620" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata38607">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-692.35974)">
+    <rect
+       style="color:#000000;fill:url(#linearGradient38639);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect11730"
+       width="202.5"
+       height="382.5"
+       x="-11.25"
+       y="681.10974"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <g
+       transform="matrix(-0.26187511,-0.07370211,-0.07370211,0.26187511,876.27147,554.80256)"
+       style="display:inline"
+       id="g42960"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252">
+      <rect
+         transform="matrix(-0.07036004,-0.9975217,0.9975217,-0.07036004,0,0)"
+         ry="0"
+         rx="0"
+         y="2340.6716"
+         x="-1528.1296"
+         height="25.25956"
+         width="17.73373"
+         id="rect3987"
+         style="fill:url(#linearGradient43195);fill-opacity:1;stroke:none;display:inline" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="rect3989"
+         d="m 2431.6991,1387.5952 10.69,-27.943 25.197,-1.7773 14.507,26.1658 -50.394,3.5545 z"
+         style="fill:url(#linearGradient43197);fill-opacity:1;stroke:none;display:inline" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         id="rect3968"
+         d="m 2319.0903,1340.5922 -3.2179,-45.621 73.1023,-5.1563 15.8005,10.3476 1.6089,22.8105 -14.1915,12.4629 -73.1023,5.1563 z"
+         style="fill:#7bdeff;fill-opacity:1;stroke:none;display:inline" />
+      <path
+         style="fill:#2cb9e7;fill-opacity:1;stroke:none;display:inline"
+         d="m 2344.9093,1338.7711 -3.2178,-45.621 30.7963,-2.1724 3.2179,45.621 -30.7964,2.1724 z"
+         id="path3985"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:#7bdeff;fill-opacity:1;stroke:none;display:inline"
+         d="m 2586.989,1321.696 -3.2179,-45.621 -73.1022,5.1563 -14.1916,12.4629 1.6089,22.8105 15.8005,10.3476 73.1023,-5.1563 z"
+         id="path3971"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#3a3a3a;fill-opacity:1;stroke:none;display:inline"
+         id="path3966"
+         sodipodi:cx="2997.5994"
+         sodipodi:cy="1390.3629"
+         sodipodi:rx="32.629726"
+         sodipodi:ry="32.629726"
+         d="m 3030.2291,1390.3629 c 0,18.0209 -14.6088,32.6297 -32.6297,32.6297 -18.0209,0 -32.6298,-14.6088 -32.6298,-32.6297 0,-18.0209 14.6089,-32.6297 32.6298,-32.6297 18.0209,0 32.6297,14.6088 32.6297,32.6297 z"
+         transform="matrix(-0.02582856,-0.3661802,0.3670373,-0.02588899,2059.4376,2439.1053)" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path3979"
+         d="m 2560.5477,1323.5611 -3.2179,-45.6211 -30.7962,2.1723 3.2179,45.621 30.7962,-2.1722 z"
+         style="fill:#2cb9e7;fill-opacity:1;stroke:none;display:inline" />
+      <path
+         transform="matrix(-0.02582856,-0.3661802,0.3670373,-0.02588899,1977.6408,2444.8749)"
+         d="m 3030.2291,1390.3629 c 0,18.0209 -14.6088,32.6297 -32.6297,32.6297 -18.0209,0 -32.6298,-14.6088 -32.6298,-32.6297 0,-18.0209 14.6089,-32.6297 32.6298,-32.6297 18.0209,0 32.6297,14.6088 32.6297,32.6297 z"
+         sodipodi:ry="32.629726"
+         sodipodi:rx="32.629726"
+         sodipodi:cy="1390.3629"
+         sodipodi:cx="2997.5994"
+         id="path3964"
+         style="fill:#3a3a3a;fill-opacity:1;stroke:none;display:inline"
+         sodipodi:type="arc" />
+      <rect
+         transform="matrix(-0.07036004,-0.9975217,0.9975217,-0.07036004,0,0)"
+         ry="41.358829"
+         rx="41.358829"
+         y="2311.8455"
+         x="-1518.9333"
+         height="82.911285"
+         width="82.717659"
+         id="rect3958"
+         style="fill:url(#linearGradient43199);fill-opacity:1;stroke:none;display:inline" />
+      <path
+         transform="matrix(-0.04796718,-0.680049,0.6816408,-0.04807951,1647.4891,3413.6957)"
+         d="m 3030.2291,1390.3629 c 0,18.0209 -14.6088,32.6297 -32.6297,32.6297 -18.0209,0 -32.6298,-14.6088 -32.6298,-32.6297 0,-18.0209 14.6089,-32.6297 32.6298,-32.6297 18.0209,0 32.6297,14.6088 32.6297,32.6297 z"
+         sodipodi:ry="32.629726"
+         sodipodi:rx="32.629726"
+         sodipodi:cy="1390.3629"
+         sodipodi:cx="2997.5994"
+         id="path3960"
+         style="fill:url(#linearGradient43201);fill-opacity:1;stroke:none;display:inline"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#3a3a3a;fill-opacity:1;stroke:none;display:inline"
+         id="path3962"
+         sodipodi:cx="2997.5994"
+         sodipodi:cy="1390.3629"
+         sodipodi:rx="32.629726"
+         sodipodi:ry="32.629726"
+         d="m 3030.2291,1390.3629 c 0,18.0209 -14.6088,32.6297 -32.6297,32.6297 -18.0209,0 -32.6298,-14.6088 -32.6298,-32.6297 0,-18.0209 14.6089,-32.6297 32.6298,-32.6297 18.0209,0 32.6297,14.6088 32.6297,32.6297 z"
+         transform="matrix(-0.02582856,-0.3661802,0.3670373,-0.02588899,2018.5392,2441.9902)" />
+    </g>
+    <g
+       transform="matrix(-0.25401256,-0.03003631,-0.03003631,0.25401256,680.84029,676.76691)"
+       style="display:inline"
+       id="g42953"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252">
+      <path
+         sodipodi:type="arc"
+         style="fill:#eb9700;fill-opacity:1;stroke:none;display:inline"
+         id="path7559"
+         sodipodi:cx="2831.0603"
+         sodipodi:cy="1123.802"
+         sodipodi:rx="50.953724"
+         sodipodi:ry="50.953724"
+         d="m 2882.014,1123.802 c 0,28.141 -22.8127,50.9537 -50.9537,50.9537 -28.141,0 -50.9537,-22.8127 -50.9537,-50.9537 0,-28.141 22.8127,-50.9537 50.9537,-50.9537 28.141,0 50.9537,22.8127 50.9537,50.9537 z"
+         transform="matrix(0.8069168,0,0,0.8069168,138.8103,259.97343)" />
+      <path
+         id="path7567"
+         d="m 2453.7512,1196.3112 c 27.9963,-22.0739 79.1433,-129.2132 79.1433,-129.2132 l -22.0739,20.4588 16.1516,-63.5299 -49.5318,58.146 3.7687,-21.5355 -89.3725,79.6814 61.9146,55.9924 z"
+         style="fill:#eb9700;fill-opacity:1;stroke:none" />
+      <path
+         id="path7569"
+         d="m 2392.375,1176.9293 c 5.9223,-32.8417 73.7592,-84.527 73.7592,-84.527 l -5.3839,19.9204 34.9953,-29.073 -10.2294,32.3033 10.7678,-3.7687 c 0,0 -36.6105,69.4521 -49.5317,76.4512 -12.9214,6.9989 -40.9176,7.5373 -54.3773,-11.3062 z"
+         style="fill:url(#linearGradient43203);fill-opacity:1;stroke:none" />
+      <path
+         transform="matrix(0.6478065,0,0,0.6478065,589.26127,438.78195)"
+         d="m 2882.014,1123.802 c 0,28.141 -22.8127,50.9537 -50.9537,50.9537 -28.141,0 -50.9537,-22.8127 -50.9537,-50.9537 0,-28.141 22.8127,-50.9537 50.9537,-50.9537 28.141,0 50.9537,22.8127 50.9537,50.9537 z"
+         sodipodi:ry="50.953724"
+         sodipodi:rx="50.953724"
+         sodipodi:cy="1123.802"
+         sodipodi:cx="2831.0603"
+         id="path7557"
+         style="fill:#484848;fill-opacity:1;stroke:none;display:inline"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline"
+         id="path7571"
+         sodipodi:cx="2831.0603"
+         sodipodi:cy="1123.802"
+         sodipodi:rx="50.953724"
+         sodipodi:ry="50.953724"
+         d="m 2882.014,1123.802 c 0,28.141 -22.8127,50.9537 -50.9537,50.9537 -28.141,0 -50.9537,-22.8127 -50.9537,-50.9537 0,-28.141 22.8127,-50.9537 50.9537,-50.9537 28.141,0 50.9537,22.8127 50.9537,50.9537 z"
+         transform="matrix(0.2132932,0.123145,-0.19975,0.3459772,2055.18,436.07747)" />
+    </g>
+    <g
+       style="display:inline;enable-background:new"
+       transform="matrix(1.0760363,0,0,1.0760363,-617.01211,665.38055)"
+       id="g3708"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252">
+      <path
+         sodipodi:nodetypes="cscccccccccc"
+         id="path3463"
+         d="m 609.3134,79.51296 c 0,0 -4.31942,0.884258 -5.69111,4.095477 -0.63051,1.476059 -0.66673,2.766377 -0.53188,3.749743 l -11.0631,7.84522 0,3.404026 18.40303,0 0,-0.558477 c 3.17468,0.254945 6.06342,-2.233892 6.06342,-2.233892 0,0 -1.65484,-2.239123 -3.85613,-3.430616 6.05736,-2.188376 5.59367,-9.59405 5.59367,-9.59405 10e-6,8e-6 -6.14891,-0.509574 -8.97109,3.078527 1.10271,-2.637356 0.0532,-6.355958 0.0532,-6.355958 z"
+         style="fill:url(#linearGradient36425);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <g
+         transform="matrix(0.8084497,0,0,0.8084497,260.56293,-436.9905)"
+         style="fill:url(#linearGradient15834);fill-opacity:1"
+         id="g3465">
+        <path
+           style="font-size:76.80299377px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient3772-5);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.11843681;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Parisine;-inkscape-font-specification:Parisine Italic"
+           d="M 406.75,661.84375 399.90625,675 l 6.875,0 3.71875,-7.09375 19.875,0 3.65625,7.09375 6.875,0 -6.84375,-13.15625 -27.3125,0 z"
+           id="path3467"
+           sodipodi:nodetypes="ccccccccc" />
+        <path
+           style="fill:url(#linearGradient3774-3);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.11843681;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 414.32413,637.20497 -7.66675,24.15097 26.38185,-7.06898 -18.7151,-17.08199 z"
+           id="path3469"
+           inkscape:transform-center-x="-13.098305"
+           inkscape:transform-center-y="-12.42117"
+           sodipodi:nodetypes="cccc" />
+        <path
+           sodipodi:type="arc"
+           style="fill:url(#linearGradient3776-4);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.11843681;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="path3471"
+           sodipodi:cx="406.92926"
+           sodipodi:cy="600.77081"
+           sodipodi:rx="2.6388278"
+           sodipodi:ry="2.6388278"
+           d="m 409.56809,600.77081 c 0,1.45739 -1.18145,2.63883 -2.63883,2.63883 -1.45738,0 -2.63883,-1.18144 -2.63883,-2.63883 0,-1.45738 1.18145,-2.63882 2.63883,-2.63882 1.45738,0 2.63883,1.18144 2.63883,2.63882 z"
+           transform="matrix(1.6050535,0,0,1.6050535,-246.48889,-303.49855)" />
+      </g>
+      <path
+         sodipodi:type="arc"
+         style="fill:#277799;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.11843681;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path3473"
+         sodipodi:cx="406.92926"
+         sodipodi:cy="600.77081"
+         sodipodi:rx="2.6388278"
+         sodipodi:ry="2.6388278"
+         d="m 409.56809,600.77081 c 0,1.45739 -1.18145,2.63883 -2.63883,2.63883 -1.45738,0 -2.63883,-1.18144 -2.63883,-2.63883 0,-1.45738 1.18145,-2.63882 2.63883,-2.63882 1.45738,0 2.63883,1.18144 2.63883,2.63882 z"
+         transform="matrix(0.64402736,0,0,0.64402736,327.24895,-289.70339)" />
+      <path
+         sodipodi:nodetypes="cccsscccssccc"
+         id="path3475"
+         d="m 595.58004,85.951421 c 0,0 -1.87969,3.182009 0.0318,7.348088 -1.37105,-0.747331 -3.88968,-0.558606 -3.88968,-0.558606 0,0 -0.48802,3.208914 1.63143,4.712218 0,0 5.81302,0.238631 5.81302,0.238606 -0.0284,0.01924 0.21278,-0.616127 -0.0758,-1.717955 0.38687,0.123183 0.65688,0.151584 0.65688,0.151584 -0.0239,0.0016 0.16263,-0.161738 0.40422,-0.505281 0.52583,0.83432 1.08635,1.237947 1.08635,1.237939 -0.0578,-0.02797 1.02835,-0.01892 2.51707,-3.04573 1.48873,-3.026827 -0.0103,-6.092404 -0.0103,-6.092404 0,0 -2.69906,0.186186 -3.7353,1.809674 -1.44666,-3.07248 -4.42964,-3.578133 -4.42964,-3.578133 z"
+         style="fill:url(#linearGradient36417);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         sodipodi:nodetypes="ccccccccccccccsssccccccccssccccccccccsccccccsscccccccccccccc"
+         style="font-size:74.92795563px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:0.98999999;fill:url(#linearGradient36414);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Museo Sans;-inkscape-font-specification:Museo Sans"
+         d="m 620.62735,82.842657 -0.68667,4.319433 4.55165,0 0,21.55096 4.31944,0 0,-21.55096 7.57632,0 0,-4.319433 -15.76074,0 z m 20.68073,0 0,25.870393 4.29634,0 0,-21.55096 8.63886,0 c 1.168,1.7e-5 2.20403,0.425496 3.04901,1.270422 0.84492,0.844968 1.2473,1.857907 1.24732,3.025906 -2e-5,1.192892 -0.4024,2.204077 -1.24732,3.049012 -0.84498,0.844967 -1.88101,1.270438 -3.04901,1.270422 l -6.00563,-0.02312 0,4.342528 4.68901,0 4.9893,8.61576 4.94308,0 -5.31267,-9.285614 c 1.54077,-0.621277 2.79408,-1.653805 3.78816,-3.095214 1.01889,-1.466221 1.52449,-3.08447 1.52451,-4.873796 -2e-5,-2.360867 -0.82786,-4.408096 -2.51773,-6.098015 -1.68993,-1.689886 -3.73715,-2.517714 -6.09803,-2.517746 l -12.9352,0 z m 26.74814,0 0,25.870393 4.29634,0 0,-25.870393 -4.29634,0 z m 9.5397,0 0,15.106456 c 0,2.957337 1.0308,5.485307 3.11832,7.622537 2.1372,2.08752 4.66694,3.1414 7.59943,3.1414 2.95729,0 5.50836,-1.05387 7.64561,-3.1414 2.11236,-2.11238 3.16448,-4.64035 3.16451,-7.622537 l 0,-15.106456 -4.31943,0 0,15.106456 c -3e-5,1.764466 -0.64804,3.259917 -1.94028,4.527317 -1.2426,1.26744 -2.76114,1.91719 -4.55041,1.91718 -1.78934,1e-5 -3.3061,-0.64973 -4.57353,-1.91718 -1.24257,-1.24255 -1.87098,-2.737999 -1.87097,-4.527317 l 0,-15.106456 -4.27325,0 z m 26.72504,0 0,25.870393 4.29634,0 0,-15.452945 8.63886,8.615765 8.61576,-8.615765 0,15.452945 4.36563,0 0,-25.870393 -12.98139,12.935195 -12.9352,-12.935195 z"
+         id="path3477" />
+      <g
+         style="font-size:15.78708172px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#31ccff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.11843681;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Telegrafico;-inkscape-font-specification:Telegrafico Bold"
+         id="text3479">
+        <path
+           d="m 604.83781,68.725188 c 1.16581,8e-6 2.15756,0.412901 2.97526,1.238679 0.83387,0.825792 1.25081,1.817544 1.25082,2.975257 -10e-6,1.173915 -0.41695,2.165666 -1.25082,2.975258 -0.8177,0.825786 -1.80945,1.238679 -2.97526,1.238679 -1.16582,0 -2.15757,-0.412893 -2.97526,-1.238679 -0.82578,-0.817688 -1.23868,-1.809439 -1.23867,-2.975258 -10e-6,-1.157713 0.41289,-2.149465 1.23867,-2.975257 0.8096,-0.825778 1.80135,-1.238671 2.97526,-1.238679 m 0,1.408694 c -0.76912,7e-6 -1.43298,0.275268 -1.9916,0.825785 -0.54243,0.55053 -0.81364,1.210348 -0.81364,1.979457 0,0.769118 0.27121,1.432985 0.81364,1.991602 0.55862,0.542429 1.22248,0.813643 1.9916,0.813641 0.76911,2e-6 1.42893,-0.271212 1.97946,-0.813641 0.55052,-0.558617 0.82578,-1.222484 0.82579,-1.991602 -10e-6,-0.769109 -0.27527,-1.428927 -0.82579,-1.979457 -0.55053,-0.550517 -1.21035,-0.825778 -1.97946,-0.825785"
+           style="line-height:100%;fill:#31ccff;fill-opacity:1;marker:none;font-family:Telegrafico;-inkscape-font-specification:Telegrafico Bold"
+           id="path36428" />
+        <path
+           d="m 612.90488,70.133882 0,2.805242 2.81739,0 c 0.3805,5e-6 0.70838,-0.137626 0.98365,-0.412892 0.27526,-0.275257 0.41289,-0.603143 0.41289,-0.983657 0,-0.388599 -0.13763,-0.720532 -0.41289,-0.995801 -0.27527,-0.275255 -0.60315,-0.412885 -0.98365,-0.412892 l -2.81739,0 m 0,4.213936 0,2.805243 -1.39655,0 0,-8.427873 4.21394,0 c 0.7691,8e-6 1.42892,0.27527 1.97945,0.825786 0.55052,0.550531 0.82578,1.214397 0.82579,1.991601 -10e-6,0.769119 -0.27527,1.432985 -0.82579,1.991601 -0.55053,0.542431 -1.21035,0.813645 -1.97945,0.813642 l -2.81739,0"
+           style="line-height:100%;fill:#31ccff;fill-opacity:1;marker:none;font-family:Telegrafico;-inkscape-font-specification:Telegrafico Bold"
+           id="path36430" />
+        <path
+           d="m 626.55406,68.725188 0,1.408694 -4.21393,0 0,2.11304 4.21393,0 0,1.396549 -4.21393,0 0,2.100896 4.21393,0 0,1.408694 -5.61048,0 0,-8.427873 5.61048,0"
+           style="line-height:100%;fill:#31ccff;fill-opacity:1;marker:none;font-family:Telegrafico;-inkscape-font-specification:Telegrafico Bold"
+           id="path36432" />
+        <path
+           d="m 628.99129,68.713044 5.61048,5.051866 0,-5.051866 1.4087,0 0,8.427873 0,-0.01214 0,0.02429 -5.62263,-5.051866 0,5.039722 -1.39655,0 0,-8.427873"
+           style="line-height:100%;fill:#31ccff;fill-opacity:1;marker:none;font-family:Telegrafico;-inkscape-font-specification:Telegrafico Bold"
+           id="path36434" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#7bdeff;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+       x="90.803482"
+       y="798.87341"
+       id="text15982"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252"><tspan
+         sodipodi:role="line"
+         id="tspan15984"
+         x="90.803482"
+         y="798.87341"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:1.478055;writing-mode:lr-tb;text-anchor:middle;fill:#7bdeff;fill-opacity:1;font-family:SF Arborcrest Heavy;-inkscape-font-specification:'SF Arborcrest Heavy,'">www.openatrium.com</tspan></text>
+    <path
+       style="fill:url(#linearGradient44098);fill-opacity:1;stroke:none;display:inline"
+       d="m 151.70878,915.16794 c -9.51693,-0.45078 -8.05487,10.7811 -8.05487,10.7811 0,0 -6.98258,1.77557 -9.22713,8.5769 4.33262,3.87526 18.34573,4.47647 18.34573,4.47647 0,0 4.2776,-14.03028 -1.06373,-23.83447 z"
+       id="path3911"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       style="fill:url(#linearGradient9059);fill-opacity:1;stroke:none;display:inline"
+       d="m 156.67645,900.96893 c -13.65525,12.15666 -4.57028,24.28489 -4.57028,24.28489 0,0 -10.79378,8.75129 -0.7453,15.29697 7.94066,5.17263 13.48103,-6.07741 13.48103,-6.07741 0,0 16.18202,20.4477 26.34933,-2.83232 1.83585,-27.19185 -20.01475,-43.58084 -34.51478,-30.67213 z"
+       id="path3907"
+       sodipodi:nodetypes="ccsccs"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       style="fill:#3a6583;fill-opacity:1;stroke:none;display:inline"
+       d="m 170.43626,938.45971 -10.54907,-90.13399 35.44656,-6.84207 -3.84869,96.54138 c 0,0 -12.77985,4.68006 -21.0488,0.43468 z"
+       id="path4004"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       style="fill:#4f88b0;fill-opacity:1;stroke:none;display:inline"
+       d="m 159.97902,848.13776 17.42664,-21.8445 19.72098,-1.79555 0.84764,23.31747 -37.99526,0.32258 z"
+       id="path4006"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       style="fill:#3a6583;fill-opacity:1;stroke:none;display:inline"
+       d="m 196.12658,841.92136 -22.21045,1.3292 9.27342,-13.86565 11.93169,-0.4809 1.00534,13.01735 z"
+       id="path4008"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       style="fill:url(#linearGradient9053);fill-opacity:1;stroke:none;display:inline"
+       d="m 154.45266,878.8596 17.86604,86.33879 -7.15311,6.31431 -17.87229,-94.25338 7.15936,1.60028 z"
+       id="path3905"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       id="path7008"
+       d="m 154.45266,878.8596 17.86604,86.33879 -7.15311,6.31431 -17.87229,-94.25338 7.15936,1.60028 z"
+       style="fill:url(#linearGradient7010);fill-opacity:1;stroke:none;display:inline"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       style="fill:url(#linearGradient9055);fill-opacity:1;stroke:none;display:inline"
+       d="m 78.831921,864.82758 c 9.419493,3.8827 5.179055,12.84855 5.179055,12.84855 l 36.183364,53.47174 c 0,0 13.15734,-10.88028 21.58605,7.07467 5.49258,-8.20651 23.17004,-9.50784 30.60938,-0.7143 4.00597,-8.38229 18.98389,-10.75657 18.98389,-10.75657 l 0.84237,35.90045 -19.89728,97.48368 -46.43888,4.3466 -26.791629,-64.794 -2.644201,-20.66257 c 0,0 -5.641261,-17.62534 14.32197,-20.72905 -2.37994,-5.36892 -3.63299,-12.30041 4.68717,-14.14295 -7.15365,-11.20929 -37.468433,-61.72594 -37.468433,-61.72594 0,0 -11.681189,0.41671 -10.846013,-9.87091 7.702468,-10.95999 4.460296,-5.6778 11.693187,-7.7294 z"
+       id="path3876"
+       sodipodi:nodetypes="cccccccccccccccc"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       style="fill:url(#linearGradient3856);fill-opacity:1;stroke:none;display:inline"
+       d="m 121.7102,1050.266 c 8.40395,-9.532 16.26392,-8.8691 25.80139,-3.7442 7.76702,-7.8752 26.91996,-7.6089 26.91996,-7.6089 l 2.8727,31.6502 -20.31823,9.5888 -20.36425,-8.6701 -14.91157,-21.2158 z"
+       id="path3783"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       style="fill:url(#linearGradient9061);fill-opacity:1;stroke:none;display:inline"
+       d="m 133.35007,878.49202 c -6.60373,4.01564 -18.98329,10.67926 -17.41627,14.32871 1.4134,3.29166 23.22491,-7.11324 23.22491,-7.11324 l -5.80864,-7.21547 z"
+       id="path3903"
+       sodipodi:nodetypes="cscc"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <g
+       id="g3872"
+       transform="matrix(0.15309946,-0.09214065,0.09214065,0.15309946,-81.756985,744.07777)"
+       style="fill:#292929;fill-opacity:1;display:inline"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252">
+      <path
+         sodipodi:nodetypes="csscc"
+         id="path3866"
+         d="m 342.23968,1041.0751 c 0,0 -81.31728,0 -99.70205,0 -11.33578,0 3.16878,-49.88686 27.57716,-69.29642 24.36179,-19.37251 57.27565,-116.67262 57.27565,-116.67262 l 14.84924,185.96904 z"
+         style="fill:#292929;fill-opacity:1;stroke:none" />
+      <path
+         style="fill:#292929;fill-opacity:1;stroke:none"
+         d="m 423.88199,1041.0751 c 0,0 81.31728,0 99.70205,0 11.33578,0 -3.16878,-49.88686 -27.57716,-69.29642 -24.36179,-19.37251 -57.27565,-116.67262 -57.27565,-116.67262 l -14.84924,185.96904 z"
+         id="path3870"
+         sodipodi:nodetypes="csscc" />
+    </g>
+    <rect
+       style="fill:#4a4a4a;fill-opacity:1;stroke:none;display:inline"
+       id="rect3857"
+       width="19.229286"
+       height="12.352589"
+       x="-394.94055"
+       y="772.24994"
+       rx="1.760784"
+       ry="1.760784"
+       transform="matrix(0.85679842,-0.5156515,0.5156515,0.85679842,0,0)"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+       d="m 42.645924,818.04227 c 7.099556,-4.27277 16.863265,5.31803 20.207356,10.87456 l 17.125101,28.4548 c 3.3441,5.55653 -1.501567,7.62992 -7.058088,10.97406 -5.55653,3.3441 -9.65745,6.65506 -13.00155,1.09857 L 42.793649,840.98942 c -3.344108,-5.55651 -7.247303,-18.67438 -0.147725,-22.94715 z"
+       id="rect3851"
+       sodipodi:nodetypes="cccsccz"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       style="fill:#4a4a4a;fill-opacity:1;stroke:none;display:inline"
+       d="m 55.928137,828.25764 c 0,0 -2.149294,1.73942 -5.040268,3.47932 -2.890983,1.73989 -5.434291,2.82464 -5.434291,2.82464 -1.7399,-2.89097 -0.805685,-6.64937 2.085296,-8.38927 2.890983,-1.7399 6.649363,-0.80567 8.389263,2.08531 z"
+       id="path3854"
+       sodipodi:nodetypes="csssc"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <rect
+       style="fill:#a0a0a0;fill-opacity:1;stroke:none;display:inline"
+       id="rect3859"
+       width="11.245272"
+       height="16.931084"
+       x="-390.90839"
+       y="752.33319"
+       rx="1.760784"
+       ry="1.760784"
+       transform="matrix(0.85679842,-0.5156515,0.5156515,0.85679842,0,0)"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       style="fill:url(#linearGradient9075);fill-opacity:1;stroke:none;display:inline"
+       d="m 42.646162,818.04268 c -7.099563,4.27278 -3.193446,17.39141 0.150655,22.94793 l 1.684455,2.79885 c -3.063559,-5.09036 -6.39504,-17.25421 0.704527,-21.52696 7.099575,-4.27278 16.287943,4.36619 19.351486,9.45652 l -1.684457,-2.79885 c -3.3441,-5.55651 -13.107085,-15.15026 -20.206666,-10.87749 z"
+       id="path3864"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+       id="path3878"
+       sodipodi:cx="836.5"
+       sodipodi:cy="1217"
+       sodipodi:rx="23.5"
+       sodipodi:ry="23.5"
+       d="m 860,1217 a 23.5,23.5 0 1 1 -47,0 23.5,23.5 0 1 1 47,0 z"
+       transform="matrix(0.26279913,0.03107529,-0.03107529,0.26279913,-83.74713,595.00756)"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#b0b0b0;fill-opacity:1;stroke:none;display:inline"
+       id="path3880"
+       sodipodi:cx="836.5"
+       sodipodi:cy="1217"
+       sodipodi:rx="23.5"
+       sodipodi:ry="23.5"
+       d="m 860,1217 a 23.5,23.5 0 1 1 -47,0 23.5,23.5 0 1 1 47,0 z"
+       transform="matrix(0.17053988,0.02016588,-0.02016588,0.17053988,-24.674556,700.32009)"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+       id="path3882"
+       sodipodi:cx="836.5"
+       sodipodi:cy="1217"
+       sodipodi:rx="23.5"
+       sodipodi:ry="23.5"
+       d="m 860,1217 a 23.5,23.5 0 1 1 -47,0 23.5,23.5 0 1 1 47,0 z"
+       transform="matrix(0.24882046,0.02942235,-0.02942235,0.24882046,-54.884206,582.50635)"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       style="fill:url(#linearGradient9085);fill-opacity:1;stroke:none;display:inline"
+       d="m 166.14772,869.49049 c 2.10038,4.88731 -8.28698,14.05048 -23.18604,20.45352 l -7.61004,-17.70749 c 14.89909,-6.40307 28.69571,-7.6333 30.79608,-2.74603 z"
+       id="path3888"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       style="fill:url(#linearGradient9087);fill-opacity:1;stroke:none;display:inline"
+       d="m 135.82601,877.03392 c -3.5991,-14.18064 -7.49821,-38.57173 -7.70223,-44.81389 -0.20401,-6.24216 0.83688,-10.26444 2.23561,-9.34534 3.14712,2.06796 9.62588,26.95251 13.43711,52.08689 -3.45475,0.53361 -7.82863,2.46595 -7.97049,2.07234 z"
+       id="path3901"
+       sodipodi:nodetypes="csscc"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       style="fill:url(#linearGradient9115);fill-opacity:1;stroke:none;display:inline"
+       d="m 146.62217,884.52854 c 8.67417,9.50487 24.73371,26.66629 25.42927,33.53189 0.18394,3.22499 -23.54658,-19.17733 -31.18178,-29.50146 2.8232,-4.75364 5.73054,-3.84459 5.75251,-4.03043 z"
+       id="path3899"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       sodipodi:type="arc"
+       style="fill:url(#linearGradient9117);fill-opacity:1;stroke:none;display:inline"
+       id="path3886"
+       sodipodi:cx="939.03778"
+       sodipodi:cy="982.73883"
+       sodipodi:rx="31.819805"
+       sodipodi:ry="36.416"
+       d="m 970.85759,982.73883 a 31.819805,36.416 0 1 1 -63.63961,0 31.819805,36.416 0 1 1 63.63961,0 z"
+       transform="matrix(0.24312836,-0.10448756,0.10448756,0.24312836,-191.83404,740.27637)"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       transform="matrix(0.13233696,-0.05687354,0.05714406,0.13296644,-41.270407,803.82535)"
+       d="m 970.85759,982.73883 a 31.819805,36.416 0 1 1 -63.63961,0 31.819805,36.416 0 1 1 63.63961,0 z"
+       sodipodi:ry="36.416"
+       sodipodi:rx="31.819805"
+       sodipodi:cy="982.73883"
+       sodipodi:cx="939.03778"
+       id="path3891"
+       style="fill:url(#linearGradient9119);fill-opacity:1;stroke:none;display:inline"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       style="fill:#5a82a0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 186.9984,855.94695 -10.71879,0.0879 1.13133,11.10856 9.54795,-0.26347"
+       id="path4113"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       style="fill:#213a4b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 173.91613,843.25056 6.88965,-0.41231 4.87929,-8.31344 10.95494,-0.0699 -0.058,-5.01761 -13.38377,-0.0527"
+       id="path4123"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path4149"
+       d="m 193.04874,898.80118 7.29156,4.40984 -0.62147,10.97027 -7.22022,-4.79717"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path4151"
+       d="m 186.90112,882.86171 -8.93779,0.0257 1.13135,11.1086 7.76692,-0.20122"
+       style="fill:#5a82a0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       style="fill:#5a82a0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 186.80905,908.32663 -7.15678,-0.0367 1.13134,11.10862 5.98593,-0.139"
+       id="path4153"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#292929;fill-opacity:1;stroke:none;display:inline"
+       id="path4276"
+       sodipodi:cx="836.5"
+       sodipodi:cy="1217"
+       sodipodi:rx="23.5"
+       sodipodi:ry="23.5"
+       d="m 860,1217 a 23.5,23.5 0 1 1 -47,0 23.5,23.5 0 1 1 47,0 z"
+       transform="matrix(0.18731425,0.02214941,-0.02214941,0.18731425,29.54868,699.77648)"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#39d909;fill-opacity:1;stroke:none;display:inline"
+       id="path3663"
+       sodipodi:cx="830.35468"
+       sodipodi:cy="1685.5848"
+       sodipodi:rx="51.176373"
+       sodipodi:ry="51.176373"
+       d="m 881.53105,1685.5848 a 51.176373,51.176373 0 1 1 -102.35275,0 51.176373,51.176373 0 1 1 102.35275,0 z"
+       transform="matrix(0.26279913,0.03107529,-0.03107529,0.26279913,-125.00497,585.65185)"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#80fa1e;fill-opacity:1;stroke:none;display:inline"
+       id="path3679"
+       sodipodi:cx="409.60971"
+       sodipodi:cy="1723.963"
+       sodipodi:rx="21.434772"
+       sodipodi:ry="21.434772"
+       d="m 431.04448,1723.963 a 21.434772,21.434772 0 1 1 -42.86954,0 21.434772,21.434772 0 1 1 42.86954,0 z"
+       transform="matrix(0.59229647,0.07003747,-0.07003747,0.59229647,-55.678048,7.638978)"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       style="fill:#14500c;fill-opacity:1;stroke:none;display:inline"
+       d="m 4.9901704,986.50789 c 3.192296,9.70558 14.7409236,4.46184 14.7409236,4.46184 0,0 17.248076,10.82877 16.514108,-6.67788 -0.384167,-9.1634 -34.7176866,-12.89045 -31.2550316,2.21604 z"
+       id="path4274"
+       sodipodi:nodetypes="ccsc"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       style="fill:#14500c;fill-opacity:1;stroke:none;display:inline"
+       d="m 170.42557,1055.5083 c -12.53341,10.7509 -18.52351,5.5766 -18.52351,5.5766 0,0 -4.10948,15.048 -12.83615,8.3851 5.00098,-17.6611 21.65031,-35.304 31.35966,-13.9617 z"
+       id="path4283"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       style="fill:#81fa1d;fill-opacity:1;stroke:none;display:inline"
+       d="m 13.515162,935.30677 c 11.911641,-12.70231 18.216173,-7.33033 20.737984,-5.18153 8.004045,-9.00052 20.652384,3.36742 15.079231,9.41683 4.008526,7.18242 -2.087165,11.78211 -7.643334,11.81905 -6.122682,4.82782 -28.630153,-16.1083 -28.173881,-16.05435 z"
+       id="path4270"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       style="fill:url(#linearGradient4267);fill-opacity:1;stroke:none;display:inline"
+       d="m 13.162835,983.43533 c 3.219506,5.10681 11.707821,4.19164 13.693629,-1.78579 1.985796,-5.97741 -6.42954,-14.43073 -6.42954,-14.43073 0,0 6.441312,-1.1741 8.180874,-6.13479 8.713978,4.90895 10.625189,6.70655 10.625189,6.70655 l 4.850224,1.21766 c 0,0 9.737048,-2.24886 10.115876,-7.99116 0.378866,-5.74234 -7.203914,-5.89951 -7.203914,-5.89951 0,0 2.385352,-4.78277 -2.495112,-8.72026 -4.88048,-3.93752 -8.392204,0.87382 -8.392204,0.87382 0,0 0.419345,-6.44286 -3.526174,-9.52967 -3.945527,-3.08679 -9.354969,-0.30653 -9.354969,-0.30653 0,0 -1.769107,-10.74024 -10.259018,-11.41856 -8.4899356,-0.6783 -14.9216223,10.05651 -10.6289396,16.86558 -8.1046772,-0.0468 -13.4982034,4.89007 -13.5879034,11.30516 -0.0897,6.41511 6.9219922,12.39723 6.9219922,12.39723 0,0 -6.6589472,9.65739 1.5157841,18.36433 7.7695521,8.27545 16.0155057,-1.41721 15.9742057,-1.51333 z"
+       id="path4249"
+       sodipodi:nodetypes="csccccscscscscscsc"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       style="fill:url(#linearGradient4215);fill-opacity:1;stroke:none;display:inline"
+       d="m 87.00216,1014.4855 c -0.858286,-0.8148 -55.263866,-54.19222 -58.123359,-61.14969 -4.005217,5.94654 -10.491647,5.37889 -14.134452,3.71558 3.71778,7.77227 8.843571,18.1868 8.843571,18.1868 0,0 -8.242758,-4.72483 -16.3333986,-3.59386 1.000602,3.07133 -0.354175,5.70159 -0.354175,5.70159 4.2975396,-0.3585 11.6140696,2.3709 15.3643086,4.95845 3.859683,2.6631 36.029654,35.60563 36.029654,35.60563 0,0 15.813033,12.5645 28.707851,-3.4245 z"
+       id="path4213"
+       sodipodi:nodetypes="ccccccscc"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       sodipodi:nodetypes="ccccccscc"
+       id="path7677"
+       d="m 87.00216,1014.4855 c -0.858286,-0.8148 -55.263866,-54.19222 -58.123359,-61.14969 -4.005217,5.94654 -10.491647,5.37889 -14.134452,3.71558 3.71778,7.77227 8.843571,18.1868 8.843571,18.1868 0,0 -8.242758,-4.72483 -16.3333986,-3.59386 1.000602,3.07133 -0.354175,5.70159 -0.354175,5.70159 4.2975396,-0.3585 11.6140696,2.3709 15.3643086,4.95845 3.859683,2.6631 36.029654,35.60563 36.029654,35.60563 0,0 15.813033,12.5645 28.707851,-3.4245 z"
+       style="fill:url(#linearGradient7679);fill-opacity:1;stroke:none;display:inline"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       style="fill:#14500c;fill-opacity:1;stroke:none;display:inline"
+       d="m 122.95493,1003.6921 c 18.02854,10.0955 3.49217,21.5577 3.49217,21.5577 0,0 10.57929,-1.2206 10.23615,13.2929 0.44002,10.2123 -10.14201,16.1007 -10.14201,16.1007 l -20.23348,-26.283 16.64717,-24.6683 z"
+       id="path4281"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       style="fill:url(#linearGradient3864);fill-opacity:1;stroke:none;display:inline"
+       d="m 120.52607,1002.6476 c 12.72945,-6.471 19.00299,4.7158 19.00299,4.7158 0,0 -4.25383,-17.02506 14.1449,-15.2292 11.14119,14.9908 10.96131,58.2688 10.96131,58.2688 l -18.57779,2.9307 -4.63661,-21.818 c 0,0 -4.99232,2.0683 -8.91338,-0.1045 2.131,10.887 -10.48986,11.1011 -10.48986,11.1011 l -19.59388,-30.2335 18.10232,-9.6312 z"
+       id="path3845"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       style="fill:url(#linearGradient4010);fill-opacity:1;stroke:none;display:inline"
+       d="m 121.99688,1109.8142 c 0,0 -27.409006,-46.1187 -31.129613,-49.0624 -3.720578,-2.9439 -27.181866,-0.3975 -36.956711,-20.9578 4.357738,0.2023 6.883322,-2.6288 7.175322,-5.0982 5.824884,6.3225 10.471463,9.3757 21.14837,9.0734 -6.150224,-8.8646 -6.077207,-9.4821 -6.077207,-9.4821 0,0 6.700837,-1.0854 8.612259,-9.3097 9.67003,6.4992 24.46865,2.2492 24.69592,-2.4004 l 25.56022,40.5795 c 0,0 8.92598,-18.6757 3.17727,-30.9357 5.86451,0.6935 8.71193,-8.3906 8.71193,-8.3906 0,0 3.70237,18.6357 1.39262,24.9351 5.14087,-3.7737 17.47372,-10.1398 17.47372,-10.1398 l 1.32227,12.639 c 0,0 -25.26434,4.5604 -24.0058,25.6785 2.13449,13.7104 5.34726,15.6551 19.05539,47.9477 -8.81142,8.3472 -25.46239,8.8821 -25.46239,8.8821 l -14.69357,-23.9586 z"
+       id="path3622"
+       sodipodi:nodetypes="cscccccccccccccccc" />
+    <path
+       style="fill:#14500c;fill-opacity:1;stroke:none;display:inline"
+       d="m 102.4002,1026.4937 c 4.29374,16.2358 -13.251565,25.0349 -24.161023,13.8419 -4.505924,-19.3678 11.08946,-26.4557 24.161023,-13.8419 z"
+       id="path4348"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       style="fill:url(#linearGradient4018);fill-opacity:1;stroke:none;display:inline"
+       d="m 67.153909,1046.7766 c -4.435201,9.4344 -16.429692,13.5487 -25.819774,-0.6187 -2.867579,7.4066 -15.56399,4.3562 -20.478407,-0.8724 -4.914403,-5.2286 -1.145773,-16.5122 8.342445,-16.2756 -6.010796,-18.4152 10.815559,-29.7039 23.744237,-28.6178 0,0 -4.858337,-13.18899 7.804919,-19.216 12.663273,-6.0271 17.089552,-0.4136 17.089552,-0.4136 0,0 10.126077,-14.51541 24.512459,-3.29807 3.56219,-9.5376 15.78671,-11.85433 21.11406,-10.11785 5.32734,1.73648 8.37622,13.38369 2.27464,18.19483 3.92638,4.2265 5.31856,13.15729 4.11213,15.75649 -3.35491,7.228 -11.70104,7.2474 -11.70104,7.2474 0,0 4.52062,19.7883 -9.56719,24.7615 -12.560025,5.1541 -23.876828,-7.692 -23.876828,-7.692 -0.10503,4.9799 1.94072,10.0929 -0.513691,16.4362 0,0 -5.219278,8.4173 -17.037512,4.7256 z"
+       id="path3626"
+       sodipodi:nodetypes="ccsccsccscscccsc"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#6af018;fill-opacity:1;stroke:none;display:inline"
+       id="path3628"
+       sodipodi:cx="582.84961"
+       sodipodi:cy="1420.9399"
+       sodipodi:rx="23.196535"
+       sodipodi:ry="23.196535"
+       d="m 606.04614,1420.9399 a 23.196535,23.196535 0 1 1 -46.39307,0 23.196535,23.196535 0 1 1 46.39307,0 z"
+       transform="matrix(0.26279913,0.03107529,-0.03107529,0.26279913,-90.958353,631.13927)"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#6af018;fill-opacity:1;stroke:none;display:inline"
+       id="path3630"
+       sodipodi:cx="582.84961"
+       sodipodi:cy="1420.9399"
+       sodipodi:rx="23.196535"
+       sodipodi:ry="23.196535"
+       d="m 606.04614,1420.9399 a 23.196535,23.196535 0 1 1 -46.39307,0 23.196535,23.196535 0 1 1 46.39307,0 z"
+       transform="matrix(0.15634883,0.01848783,-0.01848783,0.15634883,-41.751174,775.42076)"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#6af018;fill-opacity:1;stroke:none;display:inline"
+       id="path3847"
+       sodipodi:cx="1028.3894"
+       sodipodi:cy="1339.7471"
+       sodipodi:rx="22.805586"
+       sodipodi:ry="22.805586"
+       d="m 1051.195,1339.7471 a 22.805586,22.805586 0 1 1 -45.6112,0 22.805586,22.805586 0 1 1 45.6112,0 z"
+       transform="matrix(0.26279913,0.03107529,-0.03107529,0.26279913,-85.356859,594.89775)"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#6af018;fill-opacity:1;stroke:none;display:inline"
+       id="path3849"
+       sodipodi:cx="1028.3894"
+       sodipodi:cy="1339.7471"
+       sodipodi:rx="22.805586"
+       sodipodi:ry="22.805586"
+       d="m 1051.195,1339.7471 a 22.805586,22.805586 0 1 1 -45.6112,0 22.805586,22.805586 0 1 1 45.6112,0 z"
+       transform="matrix(0.17246193,0.02039317,-0.02039317,0.17246193,-12.971609,711.9352)"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline"
+       id="path3624"
+       sodipodi:cx="1008.9025"
+       sodipodi:cy="1720.4396"
+       sodipodi:rx="41.107784"
+       sodipodi:ry="17.844414"
+       d="m 1050.0103,1720.4396 a 41.107784,17.844414 0 1 1 -82.21556,0 41.107784,17.844414 0 1 1 82.21556,0 z"
+       transform="matrix(0.10675318,0.19649924,-0.19610633,0.10710782,350.16177,702.12058)"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+       d="m 12.225534,1112.7427 c 1.530182,-0.821 3.422431,-0.2493 4.242691,1.2817 l 1.980981,3.6973 -5.524158,2.9638 -1.980964,-3.6975 c -0.820282,-1.5308 -0.248749,-3.4243 1.28145,-4.2453 z"
+       id="rect3570"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path3844"
+       d="m 181.51219,1072.462 1.33483,6.7797 4.04628,1.9167 -0.80606,-6.3235 -4.57505,-2.3729 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path3846"
+       d="m 178.12894,1096.5929 1.16316,5.908 3.5261,1.6704 -0.70242,-5.5106 -3.98684,-2.0678 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+    <g
+       id="g44443"
+       transform="matrix(0.93370205,0.11040778,-0.11040778,0.93370205,-21.042541,45.525795)"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252">
+      <path
+         transform="matrix(0.226911,-0.22316663,0.22316663,0.226911,-383.97594,681.71942)"
+         d="m 195.5556,1763.6027 c 0,7.7839 -14.72367,14.0941 -32.88623,14.0941 -18.16256,0 -32.88622,-6.3102 -32.88622,-14.0941 0,-7.784 14.72366,-14.0941 32.88622,-14.0941 18.16256,0 32.88623,6.3101 32.88623,14.0941 z"
+         sodipodi:ry="14.094097"
+         sodipodi:rx="32.886227"
+         sodipodi:cy="1763.6027"
+         sodipodi:cx="162.66937"
+         id="path3635"
+         style="fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="csssssssssc"
+         id="path3632"
+         d="m 36.777702,992.51914 c 2.929888,2.97908 5.117316,6.41226 6.564227,10.06946 1.446896,3.6571 2.153262,7.5383 2.121037,11.4134 -0.0841,10.1079 5.415625,17.6981 3.908069,21.3307 -1.507553,3.6326 -2.079918,5.0978 -5.058957,8.0276 -2.97904,2.93 -4.453524,3.4779 -8.110707,4.9248 -3.657193,1.4469 -12.086249,-4.1861 -21.26272,-4.2625 -3.875065,-0.033 -7.7439636,-0.8031 -11.3765643,-2.3106 -3.63262361,-1.5077 -7.0289227,-3.7518 -9.9588114,-6.7308 -11.7195083,-11.9162 -11.5599013,-31.0987 0.356235,-42.8183 11.9161462,-11.71941 31.0986937,-11.55987 42.8181917,0.35624 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+      <path
+         style="fill:#1a1a1a;fill-opacity:1;stroke:#ffffff;stroke-width:1.69252038;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         d="m 37.899858,1047.1239 8.696218,4.7311"
+         id="path7124" />
+      <path
+         id="path7122"
+         d="m 47.536558,1037.2313 5.165608,8.4454"
+         style="fill:#1a1a1a;fill-opacity:1;stroke:#ffffff;stroke-width:1.69252038;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <path
+         id="path3643"
+         d="m -6.041253,992.16811 c -0.112201,0.11041 -0.2161837,0.22324 -0.3262963,0.33481 -6.6863617,7.15786 -2.8940382,22.21968 8.6423582,33.94968 2.9298887,2.9791 6.0843975,5.4664 9.2781641,7.4056 3.193726,1.939 6.370385,3.5499 9.509273,4.1371 8.174395,1.5291 14.309775,7.1468 17.808252,9.1994 1.939435,-0.8586 3.310233,-1.7349 5.440206,-3.8298 2.147339,-2.1119 3.043367,-3.4746 3.941398,-5.4247 -1.862726,-3.3605 -6.894241,-9.1493 -8.923508,-17.9098 -0.720622,-3.111 -2.085489,-6.3582 -3.971239,-9.5838 -1.885792,-3.2257 -4.320253,-6.4211 -7.250139,-9.4001 -11.5364,-11.73007 -26.5401815,-15.76532 -33.8082047,-9.19902 -0.1153732,0.10414 -0.2288498,0.21108 -0.3402643,0.32063 z"
+         style="fill:#fe4e89;fill-opacity:1;stroke:none;display:inline" />
+      <path
+         id="path4028"
+         d="m -11.383526,1018.3526 c 10.0847329,16.7655 33.815435,10.3262 40.459212,9.4846 6.643773,-0.8415 12.316139,7.2773 10.307367,11.5656 -2.008773,4.2882 -7.411948,6.9339 -15.266473,2.3842 -7.854523,-4.5496 -29.814013,4.595 -35.500106,-23.4344 z"
+         style="fill:#000000;fill-opacity:0.19607843;stroke:none;display:inline" />
+      <path
+         id="path7127"
+         d="m 54.515203,1039.2446 c 0.562436,2.1862 -1.355932,6.108 -4.853521,9.5479 -3.55117,3.4925 -7.572882,5.3491 -9.726943,4.6646 l 8.951172,5.2613 c 0,0 4.05033,0.2111 7.379745,-3.0633 3.262795,-3.209 3.250512,-7.4462 3.16275,-7.3599 l -4.913203,-9.0506 z"
+         style="fill:#666666;fill-opacity:1;stroke:none;display:inline" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:#5de914;fill-opacity:1;stroke:none;display:inline"
+       id="path7356"
+       sodipodi:cx="1877.4988"
+       sodipodi:cy="947.89508"
+       sodipodi:rx="20.411781"
+       sodipodi:ry="20.411781"
+       d="m 1897.9106,947.89508 a 20.411781,20.411781 0 1 1 -40.8236,0 20.411781,20.411781 0 1 1 40.8236,0 z"
+       transform="matrix(0.29021138,0.03431672,-0.03431672,0.29021138,-404.06122,716.28047)"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#26cf04;fill-opacity:1;stroke:none;display:inline"
+       id="path7358"
+       sodipodi:cx="1877.4988"
+       sodipodi:cy="947.89508"
+       sodipodi:rx="20.411781"
+       sodipodi:ry="20.411781"
+       d="m 1897.9106,947.89508 a 20.411781,20.411781 0 1 1 -40.8236,0 20.411781,20.411781 0 1 1 40.8236,0 z"
+       transform="matrix(0.22502089,0.02660812,-0.02660812,0.22502089,-274.45393,795.27589)"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       style="fill:#226ca3;fill-opacity:1;stroke:none;display:inline"
+       d="m 65.225309,954.09772 c -5.708542,3.65872 -6.577453,12.60043 -5.841055,15.13701 0.73638,2.53661 7.75888,4.49761 7.75888,4.49761 l -1.917825,-19.63462 z"
+       id="path4372"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       id="path4374"
+       d="m 65.225309,954.09772 c -5.708542,3.65872 -6.577453,12.60043 -5.841055,15.13701 0.73638,2.53661 7.75888,4.49761 7.75888,4.49761 l -1.917825,-19.63462 z"
+       style="fill:url(#linearGradient4382);fill-opacity:1;stroke:none;display:inline"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       style="fill:#226ca3;fill-opacity:1;stroke:none;display:inline"
+       d="m 65.462007,951.2993 c -4.301824,9.12998 -4.582297,15.04815 2.973104,28.23852 5.415038,2.80725 13.230763,3.63713 13.230763,3.63713 l 8.902464,-6.76694 -6.608857,-17.42674 c 5.965257,-1.24213 14.314794,-6.76444 7.260308,-11.98476 -1.66051,-1.53613 -4.584488,-2.44117 -7.261408,-3.81541 -1.146789,-0.58869 -2.154043,-2.06005 -3.151866,-2.39601 -3.224609,-1.08557 -5.425164,-1.2671 -5.425164,-1.2671 l 0.30994,7.33812 c 0,0 2.629796,-1.51971 5.199232,-0.33991 2.484149,1.14061 4.772632,2.11138 4.954402,3.70745 0.224325,1.96996 -3.234801,1.59519 -6.457483,1.54824 -2.089065,-0.0304 -3.751896,0.57904 -5.355438,0.3524 -4.077199,-0.57632 -8.258319,-1.07073 -8.569997,-0.82499 z"
+       id="path4366"
+       sodipodi:nodetypes="ccccccssccssssc"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       style="fill:#65a4cb;fill-opacity:1;stroke:none;display:inline"
+       d="m 75.381069,939.5139 0.242592,5.62464 0.32834,1.09641 0.490205,0.29114 c 0.958785,-0.36709 2.704609,-0.80735 4.447612,-0.007 0.590309,0.27101 1.170586,0.53126 1.713142,0.79384 0.798029,-0.88263 1.572966,-2.15858 1.779248,-3.91996 -0.141332,-0.0697 -0.284827,-0.13649 -0.42503,-0.2085 -1.146771,-0.58872 -2.149727,-2.05979 -3.14755,-2.39576 -3.22461,-1.08554 -5.428559,-1.27475 -5.428559,-1.27478 z"
+       id="path4438"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       style="fill:url(#linearGradient4410);fill-opacity:1;stroke:none;display:inline"
+       d="m 75.84918,939.56925 c -0.15678,0.16241 -0.307016,0.33484 -0.443806,0.51379 l 0.290204,6.77114 c 9e-6,0 2.624795,-1.51489 5.19424,-0.33512 1.324122,0.60795 2.586256,1.16544 3.509765,1.79734 1.269025,-0.89 2.164065,-2.23138 2.40771,-3.8123 -0.936324,-0.41491 -1.909231,-0.83664 -2.850115,-1.31967 -1.146771,-0.58872 -2.149727,-2.05978 -3.14755,-2.39575 -2.355981,-0.79313 -4.156637,-1.10961 -4.960448,-1.21943 z"
+       id="path4402"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <rect
+       style="fill:#272727;fill-opacity:1;stroke:none;display:inline"
+       id="rect4368"
+       width="6.7584124"
+       height="10.104558"
+       x="-107.06439"
+       y="935.68738"
+       rx="0.92719126"
+       ry="0.9271912"
+       transform="matrix(0.98213124,-0.18819729,0.18819729,0.98213124,0,0)"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       style="fill:url(#radialGradient4395);fill-opacity:1;stroke:none;display:inline"
+       d="m 75.565952,943.86596 0.129626,2.98822 c 9e-6,0 0.287967,-0.15611 0.73841,-0.32906 -0.16275,-0.94045 -0.461876,-1.83577 -0.868036,-2.65916 z m -5.954661,7.68149 c -2.247857,-0.26296 -3.956016,-0.40293 -4.150836,-0.24933 -0.891044,1.89112 -1.603279,3.64544 -2.115362,5.35414 1.001019,0.62609 2.740384,4.37942 3.970024,4.52481 3.843915,0.45454 11.811126,-4.02184 8.405724,-8.83225 -0.611172,-0.0694 -1.179217,-0.1526 -1.688856,-0.2247 -1.528937,-0.21621 -3.072061,-0.4143 -4.420685,-0.57272 z"
+       id="path4387"
+       sodipodi:nodetypes="cccccccscsc"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <rect
+       transform="matrix(0.98213124,-0.18819729,0.18819729,0.98213124,0,0)"
+       ry="0"
+       rx="0"
+       y="936.67883"
+       x="-106.08164"
+       height="6.7762208"
+       width="5.0136924"
+       id="rect4397"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <rect
+       style="fill:#65a4cb;fill-opacity:1;stroke:none;display:inline"
+       id="rect4370"
+       width="4.8651638"
+       height="1.7308755"
+       x="30.294447"
+       y="945.7218"
+       rx="0.92719126"
+       ry="0.9271912"
+       transform="matrix(0.99882135,-0.04853782,0.04853782,0.99882135,0,0)"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#65a4cb;fill-opacity:1;stroke:none;display:inline"
+       id="path4364"
+       sodipodi:cx="1833.0303"
+       sodipodi:cy="293.24899"
+       sodipodi:rx="33.286449"
+       sodipodi:ry="32.406864"
+       d="m 1866.3167,293.24899 a 33.286449,32.406864 0 1 1 -66.5729,0 33.286449,32.406864 0 1 1 66.5729,0 z"
+       transform="matrix(0.2049303,-0.05078453,0.05851831,0.23613848,-324.55045,972.32636)"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <g
+       id="g44498"
+       transform="matrix(1.0572974,0.12502259,-0.12502259,1.0572974,55.276912,-84.142126)"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252">
+      <path
+         id="path3593"
+         d="m 242.93374,1067.6718 -19.25684,-63.7883 21.96481,-34.30124 13.6904,78.83274 -16.39837,19.2568 z"
+         style="fill:#226ca3;fill-opacity:1;stroke:none;display:inline" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path3595"
+         d="m 243.23462,1067.9727 -15.3453,-4.3629 -32.32718,-89.078 28.86698,30.104 18.8055,63.3369 z"
+         style="fill:#2cb9e7;fill-opacity:1;stroke:none;display:inline" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path3597"
+         d="m 245.94261,969.73273 -33.39857,-36.10657 -16.90135,41.3129 29.53332,31.88614 20.7666,-37.09247 z"
+         style="fill:url(#linearGradient44505);fill-opacity:1;stroke:none;display:inline" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         style="fill:#226ca3;fill-opacity:1;stroke:none;display:inline"
+         d="m 235.4084,969.23193 -20.78468,-24.67606 -10.09412,27.12238 19.25434,21.9026 11.62446,-24.34892 z"
+         id="path3599" />
+      <path
+         id="path4407"
+         d="m 216.75989,947.08749 -3.22671,0.3963 -1.01895,2.75115 6.24394,-0.76987 -1.99828,-2.37758 z m 3.50975,4.17209 -8.52529,1.04728 -1.02463,2.74549 11.5482,-1.42089 -1.99828,-2.37188 z m 3.50973,4.1664 -13.83518,1.70394 -1.01896,2.74551 16.85808,-2.07187 -2.00394,-2.37758 z m 3.50975,4.1664 -19.13942,2.3606 -1.01896,2.74551 22.15667,-2.72854 -1.99829,-2.37757 z m 3.51541,4.17209 -24.44934,3.0116 -1.01896,2.75114 27.46658,-3.38518 -1.99828,-2.37756 z m 3.50973,4.17204 -29.75358,3.66826 -0.0283,0.0736 2.02092,2.29834 28.25345,-3.48147 0.60005,-1.26237 -1.09255,-1.29634 z m -0.51513,4.66457 -25.67208,3.16445 2.07754,2.36622 22.26423,-2.74552 1.33031,-2.78515 z m -2.33796,4.89099 -19.68286,2.42852 2.07188,2.3606 16.28636,-2.00396 1.32462,-2.78516 z m -2.33227,4.89099 -13.70497,1.68697 2.07755,2.36622 10.29711,-1.268 1.33031,-2.78519 z m -2.33228,4.89099 -7.72145,0.951 2.07755,2.3606 4.31359,-0.5321 1.33031,-2.7795 z"
+         style="fill:#9edff4;fill-opacity:1;stroke:none;display:inline" />
+    </g>
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.625;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect9425"
+       width="31.607147"
+       height="427.5"
+       x="191.25"
+       y="669.85974" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.625;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 0.3125,658.81802 0,22.08347"
+       id="path8641"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/for_printers/sticker_atrium1.png"
+       inkscape:export-xdpi="599.85834"
+       inkscape:export-ydpi="599.85834" />
+    <path
+       id="path9415"
+       d="m -33.4375,692.67225 21.878839,0"
+       style="fill:none;stroke:#000000;stroke-width:0.625;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/for_printers/sticker_atrium1.png"
+       inkscape:export-xdpi="599.85834"
+       inkscape:export-ydpi="599.85834" />
+    <path
+       id="path9417"
+       d="m -33.43,1052.0473 21.8788,0"
+       style="fill:none;stroke:#000000;stroke-width:0.625;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <rect
+       y="1063.61"
+       x="-76.607147"
+       height="33.749992"
+       width="324.10715"
+       id="rect9427"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.625;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.625;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 179.6875,1086.0059 0,-22.0834"
+       id="path9421"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/for_printers/sticker_atrium1.png"
+       inkscape:export-xdpi="599.85834"
+       inkscape:export-ydpi="599.85834" />
+    <path
+       id="path9423"
+       d="m 213.64598,1052.0472 -22.08348,0"
+       style="fill:none;stroke:#000000;stroke-width:0.625;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/for_printers/sticker_atrium1.png"
+       inkscape:export-xdpi="599.85834"
+       inkscape:export-ydpi="599.85834" />
+    <path
+       id="path9429"
+       d="m 213.64598,692.67224 -22.08348,0"
+       style="fill:none;stroke:#000000;stroke-width:0.625;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.625;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 179.6875,658.71403 0,22.08347"
+       id="path9431"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-ydpi="600.08252" />
+    <path
+       inkscape:export-ydpi="600.08252"
+       inkscape:export-xdpi="600.08252"
+       inkscape:export-filename="/home/aj/Projects/devseed/graphics/conferences/dcon_paris_2009/PDFs/sticker_atrium1.png"
+       id="path9433"
+       d="m 0.3125,1086.0057 0,-22.0834"
+       style="fill:none;stroke:#000000;stroke-width:0.625;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  </g>
+</svg>
